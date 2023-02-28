@@ -11,6 +11,13 @@
 public class Clase2 
 {
     private int a1;
+    private int a2;
+    
+    public Clase2()
+    {
+        this.a1 =0;
+        this.a2 =0;
+    }
     
     
 }
