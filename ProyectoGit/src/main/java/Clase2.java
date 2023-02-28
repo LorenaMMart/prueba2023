@@ -15,9 +15,11 @@ public class Clase2
     
     public Clase2()
     {
-        this.a1 =0;
+        this.a1 =5;
         this.a2 =0;
     }
+    
+    
     
     
 }
